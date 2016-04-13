@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CapucineTroalen/NodeTogether/issues"
   },
-  "homepage": "https://github.com/CapucineTroalen/NodeTogether#readme"
+  "homepage": "https://github.com/CapucineTroalen/NodeTogether#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
